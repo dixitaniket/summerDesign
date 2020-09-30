@@ -1,0 +1,2 @@
+Using the final model we can predict hand signs
+run the mdoels useing model.load("final_model.h5")
